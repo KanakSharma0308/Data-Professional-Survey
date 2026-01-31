@@ -2,7 +2,7 @@
 This project is an end-to-end Power BI analysis of a real-world survey conducted with over 600+ Data Professionals. The dataset includes insights into job titles, average salaries, programming language preferences, and workplace happiness. The challenge of this project was transforming "messy" survey responses into a clean, structured dashboard for industry benchmarking.
 
 🖼️ Dashboard Preview
-
+https://github.com/KanakSharma0308/Data-Professional-Survey/blob/main/data%20proffesional%20dashboard.png
 
 🚀 Key Objectives
 1. Salary Benchmarking: Analyze average salaries across different roles (Data Analyst, Scientist, Engineer, etc.).
